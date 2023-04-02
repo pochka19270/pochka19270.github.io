@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+    <style>
+.old1{
+    width: 150px;
+    
+} 
+
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-12">
+                <h1> Павуки</h1>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3"><img src="1.jpg" alt="" class="old1">
+                <p class="old">Цікаві факти про павука Чорну Вдову
+                    Чорна вдова (так і її паучата) є канібалами (перебуваючи в коконі, паучата вживають один одного в
+                    їжу, через що на світ з'являється всього лише 1-2 павука).</p>
+            </div>
+            <div class="col-sm-3"><img src="2.jpeg" alt="" class="old1">
+                <p class="old">Cамці чорної вдови в 2 рази менше, ніж самки.</p>
+            </div>
+            <div class="col-sm-3"><img src="3.jpeg" alt="" class="old1">
+                <p class="old">1. Павуки відносяться до загону членистоногих, вони — перший вид з числа відомих в класі
+                    павукоподібних.
+
+                    Загін включає близько 42 тисяч сучасних і близько 1,1 тисячі викопних видів. Наука, що вивчає
+                    павуків, називається арахнологією.</p>
+            </div>
+            <div class="col-sm-3"><img src="4.jpeg" alt="" class="old1">
+                <p class="old">Найміцнішу у світі павутину виробляє павук Дарвіна.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3"><img src="5.jpeg" alt="" class="old1">
+                <p class="old">Довжина тіла самих великих тарантулів становить близько шести сантиметрів без урахування розмаху лап.
+                </p>
+            </div>
+            <div class="col-sm-3"><img src="6.jpeg" alt="" class="old1">
+                <p class="old">Тарантули вміють виробляти павутину, але вони не плетуть мереж для полювання</p>
+            </div>
+            <div class="col-sm-3"><img src="7.jpeg" alt=""class="old1" >
+                <p class="old">Павук-хрестовик відноситься до сімейства кругопрядів. Вони живуть практично в кожній країні, крім
+                    південних і північних широт. Саме цей вид є найпоширенішим. У світі налічується 2000 видів цього
+                    павука, на території Росії та України загалом їх проживає близько 10 видів. Найчастіше ця комаха
+                    можна зустріти в республіці Мордовія, Астраханської, Смоленської і Ростовській областях.</p>
+            </div>
+            <div class="col-sm-3"><img src="8.jpeg" alt="" class="old1">
+                <p class="old">Павуки-мурахоїди дуже схожі на мурашок, на яких полюють, і зовні відрізняються лише наявністю восьми
+                    ніг замість шести. Вони проникають у мурашники за здобиччю, піднімаючи вгору передню пару ніг і
+                    зображуючи ними мурашині вусики, а потім полюють.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3"><img src="9.jpg" alt="" class="old1">
+                <p class="old">Павук-сріблянка[1], або водяний павук (Argyroneta aquatica) — поширений у Європі вид павуків з родини
+                    Dictynidae[en], єдиний представник монотипового роду Argyroneta. Відрізняється довгими плавальними
+                    щетинками на задніх ногах і 3-ома кігтиками на ногах 3-ох задніх пар. Це єдиний вид павуків, який,
+                    як відомо, живе майже повністю під водою.</p>
+            </div>
+            <div class="col-sm-3"><img src="10.jpg" alt="" class="old1">
+                <p class="old">Самки тарантулів живуть до тридцяти років, а от самці — в три-п'ять разів менше. При відносно
+                    скромних розмірах тулуба розмах лап у тарантула може досягати 20-25 сантиметрів. Не дивно, що люди
+                    їх бояться. За токсичності і наслідків укус тарантула для людини можна порівняти з укусом бджоли.
+                </p>
+            </div>
+            <div class="col-sm-3"><img src="11.jpeg" alt="" class="old1">
+                <p class="old">Cамці чорної вдови в 2 рази менше, ніж самки</p>
+            </div>
+            <div class="col-sm-3"><img src="12.jpeg" alt="" class="old1">
+                <p class="old">линяючи, тарантули можуть відрощувати втрачені кінцівки.
+                </p>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
