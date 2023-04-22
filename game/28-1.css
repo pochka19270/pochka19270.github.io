@@ -1,0 +1,29 @@
+.radius{
+    border-radius: 50%;
+}
+img{
+    width: 100%;
+}
+.container{
+    background: darkgray;
+}
+.row{
+    margin: 50px 0;
+    align-items: center;
+}
+.navbar{
+    font-family: 'Press Start 2P', cursive;
+}
+.jj{
+    font-family: 'Philosopher', sans-serif;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: chartreuse;
+}
+.nav-link{
+    color: black;
+}
+[class*='col']{
+    padding: 20px 0;
+}
